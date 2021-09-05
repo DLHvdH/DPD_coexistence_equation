@@ -11,6 +11,7 @@ The equation considers
 - Combinations of polymer lengths Ni and Nj
 - Self-self interactions aii and ajj within the range of 10 to 60
 - The mass or number fraction φ of component i (the fraction of component j is given by φ-1)
+
 The resulting output is then the interaction strength aij between particles i and j for which the system is in equilibrium (i.e. on the binodal).
 
 The origin of the functional form and constants of the used equations is explained in:
