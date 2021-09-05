@@ -15,5 +15,6 @@ The equation considers
 The resulting output is then the interaction strength aij between particles i and j for which the system is in equilibrium (i.e. on the binodal).
 
 The origin of the functional form and constants of the used equations is explained in:
+
 van der Haven, Dingeman LH, et al. "Closed-Form Coexistence Equation for Phase Separation of Polymeric Mixtures in Dissipative Particle Dynamics."
 The Journal of Physical Chemistry B 125.27 (2021): 7485-7498. https://doi.org/10.1021/acs.jpcb.0c11274
